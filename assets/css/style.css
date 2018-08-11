@@ -90,12 +90,12 @@ div a {
 }
 
 input{
-    width: 925px;
+    width: 100%;
 }
 
 textarea{
-    width: 925px;
-    height: 300px;
+    width: 100%;
+    height: auto;
 }
 
 .img-text{
