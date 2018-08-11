@@ -44,11 +44,13 @@ body{
     background: #4aaaa5;
     color: #ffffff; 
     clear:both;
+    padding:10px;
 }
 
-.nav{
-    float:right;
-    margin-top: 25px;
+.nav-right{
+    position: absolute;
+    right: 0;
+    
 }
 
 .main-content-container{
