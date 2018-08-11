@@ -15,6 +15,10 @@ body{
     color:#777777;
 }
 
+.jumbotron{
+    margin-bottom: 0px;
+}
+
 .main-content{
     width:960px;
     margin:auto;
@@ -122,4 +126,6 @@ textarea{
     margin:15px;
 
 }
+
+
 
